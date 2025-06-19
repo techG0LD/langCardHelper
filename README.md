@@ -41,7 +41,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://giphy.com/gifs/Os6uBlIXtrm9MOQdUw' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='[https://giphy.com/gifs/Os6uBlIXtrm9MOQdUw](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTRmajNzOXV6OGZ2OGxvNXlidmxmNWR6ejhjem9sOTgybmpxZnJ6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Os6uBlIXtrm9MOQdUw/giphy.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 
