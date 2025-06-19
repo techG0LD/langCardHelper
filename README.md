@@ -40,9 +40,9 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
-![giphy](https://github.com/user-attachments/assets/70eba7b4-2f5c-44d7-b531-749c865c6a3a)
 
-<img src='https://giphy.com/gifs/Os6uBlIXtrm9MOQdUw' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+<img src='(https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXF4ZjM5cjQ5YTJ3YnY5Y2dzYmhpcDE1enZyaDl4dWp0cDdhcjI0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Os6uBlIXtrm9MOQdUw/giphy.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 
