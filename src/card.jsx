@@ -1,12 +1,16 @@
 import React from 'react';
 
-const Card = (props) => {
+const Card = ({eng, jap, pro, isFlipped, onClick}) => {
   return (
-    <div className="card">
-      <img src={props.image} alt={props.store} className="card-image" />
-      <div className="card-content">
-        <h2 className="card-store">{props.store}</h2>
-        <p className="card-location">{props.location}</p>
+    <div className={`card ${isFlipped ? 'flipped' : ''}`} onClick={onClick}>
+      <div className="card-inner">
+        <div className="card-front">
+          <h2 className="card-text">{eng}</h2>
+        </div>
+        <div className="card-back">
+          <h2 className="card-text">{`${jap} `}</h2>
+          <h3 className="card-text">{`(${pro})`}</h3>
+        </div>
       </div>
     </div>
   )
